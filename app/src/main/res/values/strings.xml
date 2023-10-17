@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="conteudo">O Projeto tem o objetivo de criar um App com com Suporte a Vários Idiomas. Cumprindo o requisito do desafio proposto no Santander Bootcamp 2023 -  Mobile Android com Kotlin.</string>
 </resources>

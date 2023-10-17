@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="conteudo">El Proyecto tiene como objetivo crear una App con Soporte para Múltiples Idiomas. Cumpliendo con el requisito del desafío propuesto en Santander Bootcamp 2023 - Android Móvil con Kotlin.</string>
+</resources>
